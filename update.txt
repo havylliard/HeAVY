@@ -1,0 +1,4 @@
+v 1.0.0 - tradutor embutido / atualizador de mapas / backup / mods
+v 1.1.0 - remoção do tradutor agora nativo no jogo / alteração na mecanica de atulizar, para zerar chunks / backup e portal agora identifica o arquivo e faz a restauração do mapa sozinho
+v 1.2.1 - remoção do mods desnecessario possuir /  atualizador de mapas atualizado para wordgen 2.0 / outras funções em melhorias.
+v 1.2.2 - remoção e subistituição da logo do jogo pois a antiga infrigia direitos autorais.

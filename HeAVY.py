@@ -163,7 +163,7 @@ class HeAVYApp(ctk.CTk):
         self.sidebar.grid(row=0, column=0, rowspan=2, sticky="nsew")
 
         try:
-            logo_h = ctk.CTkImage(Image.open(resource_path("assets/imgs/hytale2.png")).convert("RGBA"), size=(140, 80))
+            logo_h = ctk.CTkImage(Image.open(resource_path("assets/imgs/heavy.png")).convert("RGBA"), size=(140, 80))
             ctk.CTkLabel(self.sidebar, image=logo_h, text="").pack(pady=(10, 10))
         except: pass
 

@@ -1,0 +1,12 @@
+{
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "name": "HeAVY - Hytale Tool",
+    "version": "1.2.2",
+    "author": "Havylliard",
+    "files": [
+        {
+            "fileName": "HeAVY-1.2.2.exe"
+        }
+    ]
+}
