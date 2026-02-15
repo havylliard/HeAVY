@@ -1,0 +1,19 @@
+# Pasta de saída do PyInstaller (Lixo de compilação)
+build/
+dist/
+__pycache__/
+
+# Arquivos de configuração e metadados do PyInstaller
+*.spec
+
+# Pastas de IDEs (VS Code / PyCharm)
+.vscode/
+.idea/
+
+# Logs e arquivos temporários do sistema
+*.log
+*.tmp
+.DS_Store
+
+# Pasta de builds finais (Histórico)
+Heavy-Buids/
